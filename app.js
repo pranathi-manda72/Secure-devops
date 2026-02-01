@@ -1,0 +1,7 @@
+{
+  "name": "secure-devops-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
